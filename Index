@@ -1,12 +1,20 @@
 <html>
-<head>
-<title>
+  <head>
+    <title>Sample "Hello, World" Application</title>
+  </head>
+  <body bgcolor=white>
 
-Wlecome to Ram Azure
-</head>
+    <table border="0" cellpadding="10">
+      <tr>
+        <td>
+          <img src="images/springsource.png">
+        </td>
+        <td>
+          <h1>Sample "Hello, World" Ram Azure Application</h1>
+        </td>
+      </tr>
+    </table>
 
-<body>
-<h1> Welcome to Ram Version </h1>
-</body>
 
-</html?
+  </body>
+</html>
